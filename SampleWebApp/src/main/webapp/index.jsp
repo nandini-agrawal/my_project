@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello! This is my first maven Project</h2>
+<h2>Hello! This is to test war file deployment to tomcat server using ansible</h2>
 </body>
 </html>
